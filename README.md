@@ -12,3 +12,5 @@ In the list are:
 - Top Level Domain (TLD) blocks
 - Domain blocks
 - Domain pattern blocks
+
+Please remember, it might be possible you have to add some entries to your whitelist.
