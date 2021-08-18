@@ -6,11 +6,11 @@ All my blocklists has a data volume of ~320MB, in total 8.6 mio entries. Some of
 some others are blocking too much and in some are wrong entries between the correct ones.
 
 After some analysis of these lists I created the regex plus some others I found in the net.  ;-)
-I just have these regex in place, no blocklists anymore and will update the RegEx over the time.
+Now I have these regex in place and only few blocklists. The RegEx will be updated over the time.
 
 In the list are:
 - Top Level Domain (TLD) blocks
-- Domain blocks
-- Domain pattern blocks
+- Domain blocks, mainly ads and trackers
+- Domain pattern blocks incl. all sub domains
 
 Please remember, it might be possible you have to add some entries to your whitelist.
