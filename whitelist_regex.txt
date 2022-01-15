@@ -1,0 +1,4 @@
+# some domains to whitelist
+(\.|^)pi-hole\.net
+(\.|^)(digicert|verisign)\.com
+(\.|^)(privatestats|g)\.whatsapp\.net
