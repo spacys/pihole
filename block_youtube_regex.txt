@@ -1,0 +1,2 @@
+# Youtube block
+(\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
